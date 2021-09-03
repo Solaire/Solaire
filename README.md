@@ -27,14 +27,19 @@
   <a href="https://github.com/NicoDblc/TUI_ProjectManager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoDblc&repo=TUI_ProjectManager&show_owner=true&theme=dracula" />
   </a>
+  <a href="https://github.com/cmus/cmus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmus&repo=cmus&show_owner=true&theme=dracula" />
+  </a>
   <!-- ADD REPOS HERE! -->
 </div>
                                                                                                                       
 </br>
-                                                                                                                      
+  
+<!--
 <div align="center">
   <h2></h2>
   <p>
     <img width="300" height="300" src="https://user-images.githubusercontent.com/22472584/118568555-fd11ff00-b76f-11eb-8e9b-c6be645336bf.png">
   </p>
 </div>
+-->

@@ -1,0 +1,36 @@
+# General
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.log
+*.obj
+*.dll
+*.dylib
+
+# Build directories
+build/
+bin/
+dist/
+
+# Editor and OS junk
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~*
+
+# Go
+go/bin/
+go/pkg/
+*.test
+
+# Lua/Ruby
+*.luac
+*.gem
+
+# Zig
+zig-cache/
+zig-out/

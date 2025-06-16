@@ -1,0 +1,40 @@
+# ☀ Solaire - A GitHub Repository Template
+
+`Solaire` is a "readme" repository (shows a banner on user's main page), as well as a template repository which can be used to quickly spawn new repositories.
+
+## Rationale
+
+Add rationale here
+
+---
+## Structure
+
+```bash
+$ tree
+./
+├─ README.md/                   # This readme template.
+├─ CHANGELOG.md/                # List of versions and changes.
+├─ CONTRIBUTING.md/             # Contributing guide (getting started, issues, PRs, etc.)
+├─ DEVELOPMENT.md/              # Technical development guidelines (coe style, tools, testing, etc.)
+├─ .gitignore/                  # List of default ignore files/directories.
+├─ .github/                     # Contains github repository configuration.
+│  ├─ ISSUE_TEMPLATE/           # GitHub issue templates.
+│  │  ├─ bug_report.md          # Bug report template.
+│  │  ├─ feature_request.md     # New feature template.
+```
+
+## Getting started
+
+Add some steps here
+
+### Installation
+
+Add some installation guide here
+
+### Usage
+
+Add some usage guide here
+
+## Roadmap
+
+Maybe a list of features in consideration / long-term goal?
